@@ -7,5 +7,3 @@ const VideoList = () => {
     </ul>
   );
 }
-
-export default VideoList
